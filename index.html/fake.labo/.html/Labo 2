@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html lang="nl">
+<element attribute= "value">content</element>
+<p>Dit is een paragraaf</p>
+<a href="www.example.com">dit is een link naar www.example.com</a>
